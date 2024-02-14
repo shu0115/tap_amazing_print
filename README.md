@@ -8,9 +8,9 @@ gem install 'tap_amazing_print'
 
 or
 
-`Gemfile`
 
 ```rb
+# Gemfile
 gem 'tap_amazing_print'
 ```
 

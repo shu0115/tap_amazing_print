@@ -1,5 +1,7 @@
 # TapAmazingPrint
 
+- [tap\_amazing\_print | RubyGems.org](https://rubygems.org/gems/tap_amazing_print)
+
 ## Installation
 
 ```rb

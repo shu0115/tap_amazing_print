@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     tap_amazing_print (0.1.0)
+      amazing_print
 
 GEM
   remote: https://rubygems.org/
@@ -28,8 +29,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  amazing_print
-  bundler
   rake (~> 13.0)
   rspec (~> 3.0)
   tap_amazing_print!
